@@ -3,7 +3,7 @@ This is a really fun project Python to extract data using API calls and to get m
 
 What is the most popular movie?
 
-![Most Popular Movie](images/mpstPopularMovies.png)
+![Most Popular Movie](images/mostPopularMovies.png)
 
 
 
